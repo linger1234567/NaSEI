@@ -1,0 +1,14 @@
+type       6 P Na F O C H
+version    4
+cutoff     6.5 4
+lambda_e   5
+lambda_f   1
+lambda_v   0.1
+lambda_1   0
+batch      800 #1000 formal use
+zbl        1.6
+type_weight 20 2 4 1.5 1.5 1 
+#has_charge 2
+neuron    50
+n_max     8 8
+generation 250000
